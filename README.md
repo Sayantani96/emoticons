@@ -1,3 +1,12 @@
+# Emoticons Web-app
+Use this web-app to understand the meaning of various emojis.
+
+# Project Link
+https://sayantani-emoji.netlify.app/
+
+# How To Use
+Click on the given emojis to know their meanings or search the emoji whose meaning you would like to know
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
